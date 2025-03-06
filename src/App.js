@@ -8,7 +8,6 @@ import ViewPosts from './pages/ViewPost';
 import {useState} from 'react'
 import { signOut } from "firebase/auth";
 import { auth } from "./firebase-config";
-import MyPosts from './pages/MyPosts';
 import Report from './pages/Report';
 import Contact from './pages/Contact';
 import About from './pages/About';
